@@ -2,7 +2,7 @@
 
 AudioRerset resets AppleHDA.kext each time the computer wakes up from the sleep.
 It prevents the loss of audio after the sleep. It is executed by SleepWatcher, a command line tool (daemon) that monitors sleep, wakeup and idleness of a Mac. 
-For information about further Top SleepWatcher read here http://www.bernhard-baehr.de
+For further information about SleepWatcher read here http://www.bernhard-baehr.de
 
 Installation
 ------------
