@@ -18,3 +18,6 @@ chmod +x ~/Desktop/AudioReset/ARUnistaller.sh
 
 ~/Desktop/AudioReset/ARUnistaller.sh
 ``` 
+
+AudioReset is executed by SleepWatcher, a command line tool (daemon) that monitors sleep, wakeup and idleness of a Mac. 
+For information about further Top SleepWatcher read here http://www.bernhard-baehr.de
