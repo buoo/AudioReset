@@ -6,7 +6,7 @@ For further information about SleepWatcher read here http://www.bernhard-baehr.d
 
 Installation
 ------------
-Put the AudioReset folder on the Desktop, open the Terminal and type:
+Put the AudioReset folder on the Desktop (remane the folder if it has a different name), open the Terminal and type:
 ``` sh
 chmod +x ~/Desktop/AudioReset/AudioReset.sh
 
